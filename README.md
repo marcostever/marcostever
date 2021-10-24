@@ -1,12 +1,12 @@
-# :man_technologist: Marcos S. Rosero P.
+# :man_technologist: Marcos S.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcostever/)](https://www.linkedin.com/in/marcostever/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/steve_457)](https://twitter.com/steve_457)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:marcostever7@gmail.com)](mailto:marcostever7@gmail.com)
 
-## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
+## Saludos! 
 
-Mi nombre es Marcos Steve R, Desarrollador Full Stack!
+Mi nombre es Marcos Steve Rosero P. , Desarrollador Full Stack!
 
 - :office_worker: Ingeniero Cloud [**VCSoft**](https://www.vc-soft.com/)
 - :blue_heart: Stack: Angular, SpringBoot, WebFlux, PostgreSQL & AWS
