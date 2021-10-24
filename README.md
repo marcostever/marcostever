@@ -1,4 +1,4 @@
-# :man_technologist: Lucas Bittencourt
+# :man_technologist: Marcos S. Rosero P.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcostever/)](https://www.linkedin.com/in/marcostever/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/steve_457)](https://twitter.com/steve_457)
