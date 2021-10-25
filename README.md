@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/steve_457)](https://twitter.com/steve_457)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:marcostever7@gmail.com)](mailto:marcostever7@gmail.com)
 
-## Saludos! 
+## Saludos! 👋
 
 Mi nombre es Marcos Steve Rosero P. , Desarrollador Full Stack!
 
